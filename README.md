@@ -1,4 +1,4 @@
-# Arduino/Genuino library for NJU9103
+# Arduino/Genuino 101 library for NJU9103
 
 ## Installation
 
