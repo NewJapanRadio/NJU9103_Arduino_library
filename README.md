@@ -2,8 +2,8 @@
 
 ## Installation
 
-1. download [https://github.com/NewJapanRadio/NJU9103_Arduino_library/archive/release.zip]
-2. install to Arduino as library from the zip.  
+1. Download a zip archive from [Release Page](https://github.com/NewJapanRadio/NJU9103_Arduino_library/releases)
+2. Install to Arduino as library from the zip archive.  
    see also [Installing Additional Arduino Libraries](https://www.arduino.cc/en/Guide/Libraries)
 
 ## Example
