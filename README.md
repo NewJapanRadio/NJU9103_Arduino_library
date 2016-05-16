@@ -1,5 +1,11 @@
 # Arduino/Genuino library for NJU9103
 
+## Installation
+
+1. download [https://github.com/NewJapanRadio/NJU9103_Arduino_library/archive/release.zip]
+2. install to Arduino as library from the zip.  
+   see also [Installing Additional Arduino Libraries](https://www.arduino.cc/en/Guide/Libraries)
+
 ## Example
 
 ```cpp
