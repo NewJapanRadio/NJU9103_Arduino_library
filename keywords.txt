@@ -16,6 +16,7 @@ reset	KEYWORD2
 read	KEYWORD2
 write	KEYWORD2
 get_adcdata	KEYWORD2
+adjust_zero	KEYWORD2
 
 #######################################
 # Register Addresses (LITERAL1)

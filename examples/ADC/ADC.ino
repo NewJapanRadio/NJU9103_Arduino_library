@@ -14,7 +14,7 @@ void setup() {
   wd[2] = DACCONF_CALDACEN_ENABLE | DACCONF_CALDAC_M16;
   NJU9103.write(NJU9103_ADDRESS_PGACONF, wd, 3);
 
-  // zero adjustment
+  // zero point adjustment
   NJU9103.adjust_zero();
 
   Serial.println("Run NJU9103");
